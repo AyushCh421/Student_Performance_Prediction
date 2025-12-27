@@ -5,7 +5,7 @@ import joblib
 # ---------------- LOAD MODEL ----------------
 @st.cache_resource
 def load_model():
-    return joblib.load("student_score_model.pkl")
+    return joblib.load("student_model.pkl")
 
 model = load_model()
 
