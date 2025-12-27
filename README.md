@@ -6,7 +6,7 @@ It is built using **Machine Learning (Scikit-learn)** and deployed using **Strea
 ---
 
 ## 🚀 Live Application
-👉 *(Add your Streamlit app link here after deployment)*
+👉 *https://studentperformanceprediction-9prpahqopvvusxnvwf7gmv.streamlit.app/*
 
 ---
 
